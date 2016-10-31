@@ -8,7 +8,7 @@ class LoremIpsumTest extends PHPUnit_Framework_TestCase
 
     public function setUp()
     {
-        $this->lipsum = new joshtronic\LoremIpsum();
+        $this->lipsum = new joerou\LoremIpsum();
     }
 
     public function testWord()

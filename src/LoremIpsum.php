@@ -12,9 +12,12 @@
  * @copyright Copyright 2014, 2015, 2016 Josh Sherman
  * @license   http://www.opensource.org/licenses/mit-license.html
  * @link      https://github.com/joshtronic/php-loremipsum
+ *
+ * Forked by Joseph Rousseau
+ * @link      https://github.com/joerou/php-loremipsum
  */
 
-namespace joshtronic;
+namespace joerou;
 
 class LoremIpsum
 {
@@ -39,14 +42,14 @@ class LoremIpsum
      */
     public $words = array(
         // Lorem ipsum...
-        'lorem',        'ipsum',       'dolor',        'sit',
-        'amet',         'consectetur', 'adipiscing',   'elit',
+        'pandas',        'are',       'the',        'best',
+        'is',         'generally', 'considered',   'undisputed',
         // The rest of the vocabulary
-        'a',            'ac',          'accumsan',     'ad',
-        'aenean',       'aliquam',     'aliquet',      'ante',
-        'aptent',       'arcu',        'at',           'auctor',
+        'cub',          'bear',        'bamboo',       'ad',
+        'white',        'aliquam',     'aliquet',      'china',
+        'aptent',       'black',       'at',           'auctor',
         'augue',        'bibendum',    'blandit',      'class',
-        'commodo',      'condimentum', 'congue',       'consequat',
+        'commodo',      'chilling',    'congue',       'consequat',
         'conubia',      'convallis',   'cras',         'cubilia',
         'cum',          'curabitur',   'curae',        'cursus',
         'dapibus',      'diam',        'dictum',       'dictumst',
