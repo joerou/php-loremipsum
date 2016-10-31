@@ -37,7 +37,7 @@ to your `composer.json`
 
 ```json
 "require": {
-    "joerou/php-loremipsum": "dev-master"
+    "joshtronic/php-loremipsum": "dev-master"
 }
 ```
 

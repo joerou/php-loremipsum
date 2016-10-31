@@ -12,12 +12,9 @@
  * @copyright Copyright 2014, 2015, 2016 Josh Sherman
  * @license   http://www.opensource.org/licenses/mit-license.html
  * @link      https://github.com/joshtronic/php-loremipsum
- *
- * Forked by Joseph Rousseau
- * @link      https://github.com/joerou/php-loremipsum
  */
 
-namespace joerou;
+namespace joshtronic;
 
 class LoremIpsum
 {
